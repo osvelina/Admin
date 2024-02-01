@@ -106,8 +106,7 @@
       color: #ffffff; /* Atur warna teks tombol */
     }
   
-    /* Checkboxes */
-    /* ... (sesuaikan dengan kebutuhan Anda) */
+
   
     /* Deletion Buttons */
     .bg-destructive {
